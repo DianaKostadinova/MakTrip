@@ -1,0 +1,35 @@
+{
+    "name": "maktrip-client",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "react-scripts start"
+    },
+    "dependencies": {
+        "animate.css": "^4.1.1",
+        "axios": "^1.9.0",
+        "bad-words": "^4.0.0",
+        "bootstrap": "^5.3.6",
+        "firebase": "^11.9.0",
+        "fuse.js": "^7.1.0",
+        "leaflet": "^1.9.4",
+        "openai": "^5.3.0",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "react-firebase-hooks": "^5.1.1",
+        "react-leaflet": "^4.2.1",
+        "react-router-dom": "^7.6.2",
+        "react-scripts": "5.0.1"
+    },
+    "browserslist": {
+        "production": [
+            ">0.2%",
+            "not dead",
+            "not op_mini all"
+        ],
+        "development": [
+            "last 1 chrome version",
+            "last 1 firefox version",
+            "last 1 safari version"
+        ]
+    }
+}
